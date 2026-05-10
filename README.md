@@ -45,7 +45,7 @@ The fusion algorithm is grounded in established physical models:
 
 ---
 
-## Simulink Canvas
+## Relation between various oil parameters
 
 <p align="center">
   <img src="media/pic1.png" alt="pic1.png">
