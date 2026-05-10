@@ -1,15 +1,13 @@
 # ISM-P24 — Integrated Sump Monitor Plug (M24)
 ### Real-Time Engine Oil Condition Monitoring System
 
----
-
-## The Problem
+## Problem
 
 Engine oil degrades silently. Conventional service intervals are time-based — not condition-based — leading to either premature oil changes (waste) or missed degradation events (engine damage). There is no affordable, retrofittable solution that gives real-time oil health data directly from the sump.
 
 ---
 
-## What It Is
+## Description
 
 ISM-P24 is a **smart drain plug replacement** — an M24 hex-head plug that integrates a multi-parametric oil condition sensor directly into the engine sump, with zero modifications to the engine itself.
 
@@ -143,6 +141,12 @@ Designed and validated to fit within a ₹10,000 project budget.
 **Industrially robust** — IP68 rated, hermetically sealed, Faraday-shielded, vibration-rated connector.  
 **Mathematically grounded** — every derived parameter traces to a validated physical model.
 
-
 ---
 
+## Author
+
+RAYHAAN T 
+<br>
+Final Year Mechanical Engineering Student | Robotics Enthusiast  
+📍 Chennai, India  
+🔗 linkedin.com/in/rayhaan-t-742709290/
